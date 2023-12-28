@@ -1,4 +1,4 @@
-# Email Classification
+# Email Classification- Personal Project
 
 This project uses the naive Bayes classification to
 classify emails in spam and not spam categories. 
